@@ -68,7 +68,7 @@ The dashboard allows users to:
 
 - Sample Dashboard Screenshot
 
-![Employee Payment Performance and Dashboard](https://github.com/user-attachments/assets/49eb2b8d-1026-4e6f-80f4-48da30c12870)
+  ![Employee Payment Performance and Dashboard](https://github.com/user-attachments/assets/d51659cc-84fb-4c31-8ae0-d6b0731de018)
 
 ---
 
